@@ -41,9 +41,21 @@ We use the information we collect to:
 - Monitor and prevent fraud
 - Comply with legal obligations
 
-## Security
+## Data Security
 
-We value your trust in providing us your information, thus we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+All data collected by the App is encrypted in transit using industry-standard security protocols. We rely on trusted third-party services (such as Firebase and Google Play Services) that ensure data is securely transmitted and stored.
+
+## Account Creation and Authentication
+
+Our App does **not** allow users to create accounts, log in, or authenticate using usernames, passwords, OAuth, or any other method. You can use all features of the App without creating an account.
+
+## Data Sharing and Disclosure
+
+We do **not** sell or share your personal information with third parties, except as required to provide core app functionality (such as analytics, advertising, and crash reporting through trusted providers like Google and Firebase).
+
+## Your Rights
+
+Since we do not collect personally identifiable information, there is no user data to access, modify, or delete. If you contact us directly and provide information, you may request its deletion at any time by contacting us at the email below.
 
 ## Children’s Privacy
 
@@ -55,9 +67,8 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [dawitfikadu3@gmail.com]
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [your-email@example.com]
 
 ---
 
-This Privacy Policy was created for Akahidegn and is intended for informational purposes only. 
-
+This Privacy Policy was created for Akahidegn and is intended for informational purposes only. Please customize it to reflect your actual data practices and contact details.
