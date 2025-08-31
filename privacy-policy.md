@@ -18,7 +18,7 @@ We may collect information about you in a variety of ways. The information we ma
 - In case of errors, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, app configuration, and the time and date of your use of the App.
 
 ### Unique User Identifier
-- The App generates a unique identifier for each user or device (such as a Firebase Installation ID or similar) to manage app data and functionality. This identifier is not personally identifiable information and is used solely for internal purposes, such as storing user-related data in Firestore. No explicit account creation or login is required from the user.
+- The App generates a unique identifier for each user or device (e.g., a Firebase Installation ID) to manage app features. This identifier is not personally identifiable information. It may be associated with your Firebase Auth user to store your user profile in Firestore. Trip and activity history is stored locally on your device only and is not uploaded to Firestore. You can delete this local activity data at any time from within the app (Profile > Delete My Data).
 
 ## Cookies and Tracking Technologies
 
@@ -50,7 +50,7 @@ All data collected by the App is encrypted in transit using industry-standard se
 
 ## Account Creation and Authentication
 
-Our App requires users to authenticate using their Google account (OAuth) via Google Sign-In. When you first launch the app, you will be prompted to sign in with your Google account. Upon successful authentication, a unique user ID is created and used to store your profile and app data in Firestore. This process uses your Google account's unique identifier, but we do not access your password or store sensitive authentication credentials. If you are already signed in, the app will automatically use your existing Google account session.
+Our App requires users to authenticate using their Google account (OAuth) via Google Sign-In. When you first launch the app, you will be prompted to sign in with your Google account. Upon successful authentication, a unique user ID is created and used to store your user profile in Firestore. This process uses your Google account's unique identifier, but we do not access your password or store sensitive authentication credentials. If you are already signed in, the app will automatically use your existing Google account session.
 
 As part of the authentication process, we collect and store your Google account's unique identifier and basic profile information (such as your name and email address) in order to create and manage your user account within the app. You have the right to access, modify, or request deletion of your user data (including your Google account's unique identifier, name, and email address) stored in our systems. If you wish to exercise these rights, please contact us at the email below.
 
